@@ -11,7 +11,7 @@
     <groupId>br.com.p4s</groupId>
     <artifactId>dsvendas</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>dsvendas</name>
     <description>projeto desenvolvido na semana SpringBoot</description>
     <properties>
