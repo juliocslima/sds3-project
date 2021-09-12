@@ -217,8 +217,7 @@ INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,78,60,6723.0
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie a fake api com `yarn server`
-- Inicie o servidor com `yarn dev`
+- Inicie o servidor com `yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
