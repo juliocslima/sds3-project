@@ -1,4 +1,8 @@
-# sds3-project
+# Semana Spring React - SDS 4.0
+
+<h1 align="center">
+  <img alt="SDS 4.0" title="Semana Spring React" src=".github/images/app-image.png" />
+</h1>
 
 ## ✨ Tecnologias
 
@@ -11,10 +15,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Backend:
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+- Banco de dados [Postgres](https://www.postgresql.org/) e [H2](https://www.h2database.com/html/main.html)
 
 ## 💻 Projeto
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+SDS3 foi uma aplicação desenvolvida durante a semana Spring React, evento ministrado por Nélio Alves da [DevSuperior](https://devsuperior.com.br/). O objetivo do projeto é criar um interface de relatório de vendas por colaborador através de um dashboard.
+
+Foram utilizadas duas plataformas para este projeto [Netlify](https://www.netlify.com/) para o frontend e [Heroku](https://www.heroku.com/) para o backend.
 
 ## 🚀 Como executar
 
