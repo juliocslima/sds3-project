@@ -1,5 +1,11 @@
 # Semana Spring React - SDS 4.0
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+
+ <img src="https://img.shields.io/static/v1?label=SDS&message=4.0&color=8257E5&labelColor=000000" alt="SDS 4.0" />
+</p>
+
 <h1 align="center">
   <img alt="SDS 4.0" title="Semana Spring React" src="https://github.com/juliocslima/sds3-project/blob/main/images/app-image.png" />
 </h1>
